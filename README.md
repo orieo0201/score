@@ -8,3 +8,4 @@
  #Stable-Baselines3이 32비트에서 설치가 안되는 것 같음(학습은 Colab/서버(64bit), 실시간 매매는 Kiwoom PC(32bit)으로 분리)
 3. 32bit 파이썬으로 main2.py를 실행 -> 자동 매매 시작
  
+*pkl, zip파일은 자주 변경될 예정
