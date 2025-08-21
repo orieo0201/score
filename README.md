@@ -5,5 +5,5 @@
 
 실행 조건
 1. 64bit 파이썬으로 server.py를 powersell에서 실행(server.py에 scaler.pkl, sac_model.zip 존재해야 함)
-2. 32bit로 main.py를 실행 -> 자동 매매 시작
+2. 32bit로 main2.py를 실행 -> 자동 매매 시작
  
