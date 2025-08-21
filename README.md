@@ -5,5 +5,6 @@
 
 실행 조건
 1. 64bit 파이썬으로 server.py를 powersell에서 실행(server.py에 scaler.pkl, sac_model.zip 존재해야 함)
-2. 32bit로 main2.py를 실행 -> 자동 매매 시작
+ #Stable-Baselines3이 32비트에서 설치가 안되는 것 같음(학습은 Colab/서버(64bit), 실시간 매매는 Kiwoom PC(32bit)으로 분리)
+3. 32bit 파이썬으로 main2.py를 실행 -> 자동 매매 시작
  
